@@ -14,7 +14,7 @@
 
 - 🎓 B.Sc. Computer Science (Informatics), **Universitas Amikom Yogyakarta**, Cum Laude, GPA 3.82/4.00
 - 📊 **Data Analyst**: K-Means clustering, CNN image classification, PySpark, and dashboards in Looker Studio
-- 🌐 **Full-Stack Developer**: production web apps with **Next.js, Laravel, Tailwind, and Prisma**
+- 🌐 **Full-Stack Developer**: production web apps with **Next.js, Laravel, React, Tailwind, and Prisma**
 - 📝 **Published researcher** (SINTA 3, JAIC): Gen Z spending segmentation with K-Means
 - 💼 Operational Assistant at **CryptoCanal** (remote, Amsterdam) · Founder of **ProfilWeb Studio**
 - ✅ Open to roles in **data analysis** and **full-stack development**
@@ -33,8 +33,8 @@
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/gunsyl">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://gunsylportfolio.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 </p>
 
@@ -55,7 +55,7 @@
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,php,html,css,nextjs,laravel,tailwind,prisma"/>
+<img src="https://skillicons.dev/icons?i=js,ts,php,html,css,react,vite,nextjs,laravel,tailwind,prisma"/>
 </p>
 
 ### 🛠️ Tools & Design
@@ -71,11 +71,12 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 💰 **Gen Z Spending Clustering** | Published research (SINTA 3, JAIC): segmentation of Gen Z financial behavior with K-Means · [jumlah data, jumlah cluster, insight utama] | Python, K-Means |
+| 🏠 **[Galeri Kost Jogja](https://galerikostjogja.com)** | Boarding-house (kost) listing platform for Yogyakarta with 1,800+ listings and full CRUD for managing property data | React.js, Vite |
+| 💰 **[Gen Z Spending Clustering](https://github.com/gunsyl/Segmentation-of-Generation-Z-Spending-Habits-Using-the-K-Means-Clustering-Algorithm)** | Published research (SINTA 3, JAIC): segmented Gen Z spending behavior into 6 K-Means clusters (~1,700 respondents), revealing distinct saving, investment, and consumption patterns | Python, K-Means, Jupyter Notebook |
 | 📦 **ezbook** | Web admin system for rental businesses: real-time inventory tracking and transaction management, built with Agile/Scrum | Laravel, MySQL, Tailadmin UI, Figma |
 | 🎬 **Flixie** | VOD web app (team project): built FilmController and AdminController, including film CRUD, categories, and user management | Laravel, MySQL, Tailadmin UI |
-| 📊 **Big Data Analytics** | [apa yang dianalisis] | PySpark, Google Colab |
-| 🧠 **Face Recognition CNN** | Image classification with CNN · [dataset/akurasi] | Python, TensorFlow/PyTorch |
+| 📊 **Big Data Analytics** | Large-scale data processing and exploratory analysis using PySpark in Google Colab | PySpark, Google Colab |
+| 🧠 **Face Recognition CNN** | Face recognition using a Convolutional Neural Network for image classification | Python, Deep Learning (CNN) |
 | 🌾 **IoT Farm Sprayer** | PKM-KC proposal for modern agriculture · 🥈 2nd Place, PIMAPOSMA 2024 | IoT |
 
 ---
@@ -87,15 +88,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Top Languages
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gunsyl&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunsyl&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=gunsyl&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
